@@ -1,8 +1,9 @@
 # <p style="text-align: center;">Fatema Al Batoul Fakhourji</p>
+
 <p style="text-align: center;">Beirut, Lebanon | +961 79 119 624 | fatemaalbatoulfakhourji@gmail.com</p>
 
 <div>
-  
+  <img align ="right" alt="Fatema Fakhourji" src="https://contents.bebee.com/users/id/Oe0tz62babcff5983e/_avatar-QF1kP-400.png" width="250" height="250">
   <h2> Work Experience </h2>
  <strong>Physics and Mathematics Teacher</strong> 12/2021 - 06/2022
  <ul>
@@ -16,34 +17,37 @@
 </ul>
 </div>
 
-
 ## Education
- **American University of Beirut (AUB)** 
+
+**American University of Beirut (AUB)** 08/2019 - 12/2020
 
 - Master's in Science, Astrophysics
 
 - Completed three semesters. Stopped because of the Lebanese economic crisis.
 
- **Lebanese University, Faculty of Sciences II** 10/2015 - 07/2018
+  **Lebanese University, Faculty of Sciences II** 10/2015 - 07/2018
 
-- Bachelor's in Science, Pure and Applied Physics. 
+- Bachelor's in Science, Pure and Applied Physics.
 
-## Language Proficiency 
+## Language Proficiency
+
 - Arabic: Advanced
-- English: Advanced 
+- English: Advanced
 
 ## Computer Skills
+
 - MS Excel, MS Word, and MS PowerPoint
 - Origin
 - MATLAB, HTML, JavaScript, and CSS
 - LaTeX editor overleaf.
 
 ## Skills
+
 - Communication skills
 - Leadership
 - Problem-solving
 - Creative thinking
 
 ## References
-Available upon request
 
+Available upon request
