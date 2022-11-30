@@ -13,3 +13,6 @@ p {
 .message__time--old {
   opacity: 0.5;
 }
+.message {
+  line-height: 40px;
+}
