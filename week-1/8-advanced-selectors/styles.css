@@ -9,6 +9,6 @@ div[class="site-footer"] > p {
   text-align: center;
 }
 
-div [class="message message--unread"] {
+.message:last-child {
   box-shadow: 4px 4px 0 #dba944;
 }
