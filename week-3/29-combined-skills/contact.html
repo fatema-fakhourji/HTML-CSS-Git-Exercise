@@ -12,9 +12,9 @@
 
   <body>
     <div class="site-wrapper">
-      <div class="site-header">
+      <header class="site-header">
         <div class="site-header__title">C.Y.F</div>
-        <div class="main-nav">
+        <nav class="main-nav">
           <ul class="main-nav__list">
             <li class="main-nav__list-item">
               <a href="index.html">Latest</a>
@@ -26,7 +26,7 @@
               <a href="contact.html">Contact</a>
             </li>
           </ul>
-        </div>
+        </nav>
         <form class="site-search" action="/search">
           <label for="search-input">
             Search
@@ -48,23 +48,42 @@
           </svg>
           <button type="submit">Submit</button>
         </form>
-      </div>
+      </header>
 
       <main>
         <h1>Contact Us</h1>
         <p>Send us an email if you would like to contact us.</p>
         <form method="GET" class="contact-form">
-          <div class="contact-form__field">
+          <div style="line-height: 40px;" class="contact-form__field">
             <label for="name">Name</label>
-            <input type="text" name="name" id="name" />
+            <input type="text" name="name" id="name" required />
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email" required />
           </div>
           <div class="contact-form__field">
+            <label for="message">Message</label>
             <textarea
               name="message"
+              id="message"
               placeholder="Your message should not be longer than 200 words."
+              required
             ></textarea>
           </div>
           <button type="submit">Send</button>
+          <fieldset style="line-height: 30px;">
+            <legend>What branch are you interested in?</legend>
+            <div class="alig">
+              <label for="beirut"
+                ><input id="beirut" type="radio" name="branch" value="beirut" /> Beirut</label
+              >
+              <label for="tripoli"
+                ><input id="tripoli" type="radio" name="branch" value="tripoli" /> Tripoli</label
+              >
+              <label for="sour"
+                ><input id="sour" type="radio" name="branch" value="Sour" /> Beirut</label
+              >
+            </div>
+          </fieldset>
         </form>
       </main>
 
@@ -74,7 +93,7 @@
             href="https://github.com/coditech/Submissions/tree/master/Exercises/html-css-git-exercises"
             >Built</a
           >
-          with ♥ for <a href="https://codi.tech/">Codi</a>.
+          with <span> ♥ </span>for <a href="https://codi.tech/">Codi</a>.
         </p>
         <p>
           <svg
