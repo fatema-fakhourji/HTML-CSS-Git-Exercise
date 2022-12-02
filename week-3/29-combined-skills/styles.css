@@ -1,1 +1,59 @@
 /* Add your own CSS code below */
+footer span {
+  color: #c85308;
+}
+.alig {
+  display: flex;
+  flex-direction: column;
+  line-height: 30px;
+}
+.site-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-article p {
+  max-width: 50em;
+  line-height: 27px;
+}
+@media only screen and (min-width: 992px) {
+  .hero > h2 {
+    font-size: 50px;
+  }
+}
+nav > ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+@media only screen and (min-width: 767px) {
+  .site-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .main-nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .site-search {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .views {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 15px;
+  }
+  .views__all {
+    margin-left: auto;
+    align-self: flex-end;
+  }
+}

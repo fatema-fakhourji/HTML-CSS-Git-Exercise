@@ -1,4 +1,4 @@
-# Semantic HTML
+t# Semantic HTML
 
 There are no semantic tags or attributes being used in the messages for this example. Let's improve it by changing the tags and attributes to semantic HTML code, so that computers can understand what kind of information is being presented. Complete the following changes in the `index.html` file:
 
